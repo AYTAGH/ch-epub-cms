@@ -1,0 +1,20 @@
+title: Project
+pages: false
+files:
+  sortable: true
+  type: 
+      - image
+fields:
+  title:
+    label: Publication Title
+    type:  text
+  author:
+    label: Publication Author
+    type:  text    
+  year:
+    label: Year Published
+    type:  text
+  book:
+    label: Book Content
+    type: textarea
+    help: copy and place book content in above field
